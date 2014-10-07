@@ -1,0 +1,101 @@
+#MainContainer {
+
+    position: relative;    
+    width: 90%; 
+    height: 1200px;
+
+    //min-height: 100%; /* real browsers */
+    //height: auto !important; /* real browsers */
+    //height: 100%; /* IE6: treated as min-height*/
+    padding: 10px; 
+
+    background:url(tml/fon.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border-radius: 10px;
+    background: #00CED1;
+
+}
+#indexContainer {
+    position: relative;    
+    width: 90%; 
+    height: 1100px;
+    //height: 100%;
+    padding: 10px; 
+}
+#progressStyle{
+
+}
+.textLeft{
+    text-align: left;
+}
+.inventoryImg{
+    float:left;
+}
+
+progress {
+    background-color: #f3f3f3;
+    border: 0;
+    width: 80%; 
+    height: 18px;
+    border-radius: 9px;
+}
+
+
+#picContainer {
+    position: absolute;
+    width: 90%; /* Ширина ячейки */
+    height: 18%;
+
+
+}
+
+
+#headContainer{
+
+    position: absolute;
+
+
+}  
+#gameContainer{
+    position: absolute;
+    top: 25%;
+    //  color: white;
+
+}
+#gameContainer p{
+    //  link:white;
+    //   color:white;
+
+    //   background-color: white;
+}
+
+#footerLinks{
+    position: absolute;
+    bottom: 5%;
+}
+#statsBlock{
+    border:4px;
+    width:90%;
+    padding:3px;
+
+}
+#MainContainer #posLeft{
+    position: absolute;
+    color: white;
+    left: 10px; 
+}
+.hide{
+    display:none;
+}
+#MainContainer #posRight{
+    position: absolute;
+    color: white;
+    right: 10px; 
+}
+#MainContainer #posCenter{
+    position: absolute;
+    left: 40%;
+    color: white;
+    // margin: 0 auto;
+}

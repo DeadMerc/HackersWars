@@ -1,0 +1,3 @@
+<?php
+echo '<p>
+ Уже в очереди:Adventures of Shuggy</p><p>Успешно:SpaceChem</p><p>Успешно:SpaceChem</p><p>Уже в очереди:Manhunter<p><p>Уже в очереди:Adventures of Shuggy<p><p>Уже в очереди:Adventures of Shuggy<p><p>Ошибка:Defy Gravity Extended<p><p>Уже в очереди:Adventures of Shuggy<p><p>Уже в очереди:SpaceChem<p><p>Уже в очереди:Adventures of Shuggy<p><p>Уже в очереди:Adventures of Shuggy<p><p>Уже в очереди:Two Worlds II: Velvet Edition<p><p>Ошибка:PAYDAY 2: A Merry Payday Christmas Soundtrack<p><p>Ошибка:PAYDAY 2: A Merry Payday Christmas Soundtrack<p><p>Уже в очереди:Adventures of Shuggy<p><p>Ошибка:Batman: Arkham Origins - New Millennium Skins Pack<p><p>';
